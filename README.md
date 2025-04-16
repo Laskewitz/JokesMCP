@@ -6,8 +6,8 @@ With this MCP Server, you will able to fetch jokes from the following websites:
 
 <table>
   <tr>
-    <td><a href="https://api.chucknorris.io/">chucknorris.io</a><br><br><img src="https://api.chucknorris.io/img/chucknorris_logo_coloured_small@2x.png" style="height:225px;width:450px;" /></td>
-    <td><a href="https://icanhazdadjoke.com/">icanhazdadjoke.com</a><br><br><img src="https://icanhazdadjoke.com/static/smile.svg" style="height:300px;width:300px;" /></td>
+    <td><a href="https://api.chucknorris.io/"><img src="https://api.chucknorris.io/img/chucknorris_logo_coloured_small@2x.png" style="height:225px;width:450px;" alt="ChuckNorris.IO" /></a></td>
+    <td><a href="https://icanhazdadjoke.com/"><img src="https://icanhazdadjoke.com/static/smile.svg" style="height:300px;width:300px;" alt="icanhazdadjoke.com" /></a></td>
   </tr>
 </table>
 
