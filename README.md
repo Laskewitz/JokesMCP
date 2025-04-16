@@ -2,6 +2,10 @@
 
 Welcome to the Jokes MCP Server! This is a MCP server built on the MCP C# SDK.
 
+With this MCP Server, you will able to fetch jokes from the following websites:
+- [chucknorris.io](https://api.chucknorris.io/).
+- [icanhazdadjoke.com](https://icanhazdadjoke.com/)
+
 ## Tools
 
 The following tools are included:
