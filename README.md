@@ -1,6 +1,6 @@
 # JokesMCP
 
-Welcome to the Jokes MCP Server! This is a MCP server built on the MCP C# SDK.
+Welcome to the Jokes MCP Server! This is a [MCP](https://modelcontextprotocol.io/introduction) server built on the [MCP C# SDK](https://github.com/modelcontextprotocol/csharp-sdk).
 
 With this MCP Server, you will able to fetch jokes from the following websites:
 - [chucknorris.io](https://api.chucknorris.io/)
